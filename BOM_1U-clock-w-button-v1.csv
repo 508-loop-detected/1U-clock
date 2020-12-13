@@ -1,0 +1,24 @@
+ID,Name,Designator,Footprint,Quantity,Source,Location
+1,CD40106BM,U1,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1,3.9mm wide,BACK
+2,1n5819,D2,DO-41_BD2.4-L4.7-P8.70-D0.9-RD,1,,BACK
+3,10uF,C2,CAP-TH_BD5.0-P2.00-D0.8-FD,1,,BACK
+4,EURO_POWER_LOCK,G$1,EURO_PWR_HEADER_LOCK,1,,BACK
+5,2N3904-tripod,Q1,TO92-E1,1,,BACK
+6,1K,"R8,R14,R13,R10,R11,R12,R9",R805,7,,BACK
+7,91K,R1,R805,1,,BACK
+8,680K,R2,R805,1,,BACK
+9,6.8K,R3,R805,1,,BACK
+10,100nF,"C4,C3",C805,2,,BACK
+11,4-pin 2mm female header,"H1,H2,H3",HDR-TH_4P-P2.00-V-M,3,https://www.taydaelectronics.com/connectors-sockets/pin-headers/4-pin-2-00-mm-single-row-female-pin-header.html,BACK
+12,CD_4516_BNSR,U2,4516_SOIC_16,1,CD 4516 BNSR,BACK
+1,B250K,VR1,9MM_SNAP-IN_POT,1,,FRONT
+2,1/4 freq division,U8,THONKICONN-TIGHT,1,,FRONT
+3,1/1 bottom,U6,THONKICONN-TIGHT,1,,FRONT
+4,1/1,"U5,U4,U3",THONKICONN-TIGHT,3,,FRONT
+5,1/2 freq division,U7,THONKICONN-TIGHT,1,,FRONT
+6,DPDT-LED-PUSHBUTTON,S1,DPDT-LED-PUSHBUTTON,1,https://www.mouser.com/ProductDetail/Well-Buying/PS004-L22NPR1AXTURXX?qs=QTW8DiaQKovyZsGb58sYPQ%3D%3D,FRONT
+7,2.2uF,C1,C805,1,,FRONT
+8,22uF,C2,C805,1,,FRONT
+9,4-pin 2mm male header,"H1,H2,H3",HDR-TH_4P-P2.00-V-M,3,https://www.taydaelectronics.com/connectors-sockets/pin-headers/40-pin-2-00-mm-single-row-pin-header-strip.html,FRONT
+,Standoffs,,1/4” 4-40,1,https://www.mouser.com/ProductDetail/761-2053-440-AL-7,BOTH
+,Screws,,3/16” 4-40,2,,BOTH

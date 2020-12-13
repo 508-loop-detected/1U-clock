@@ -1,7 +1,7 @@
-# 2HP Stereo mixer and headphone amplifier
+# 1U clock
+1U clock module w/ 1/2 and 1/4 dividers
 
-<img src="mix-630.jpg" width=210>
+<img src="1u-clock-front.JPG" width=400>
+<img src="1u-clock-side.JPG" width=400>
 
-A simple stereo mixer -- it has 1 plain-mono input, a second mono input that becomes a hard-panned left-channel when the third input, a dedicated right channel, is patched into. No pan pots, sorry, it's 2HP. I actually designed it to go with a combination 4-way low-pass gate and stereo panning mixer that I haven't gotten around to uploading here yet.
-
-It has a reasonably decent headphone amplifier IC as its output stage, set to provide enough gain to drive my Sennheisers. 
+4 outs of the main clock, plus 1 each of 1/2 and 1/4 clock division, designed to make it easy to do simple beats (or anything else requiring clock division) without needing a separate clock divider.
